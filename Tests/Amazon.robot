@@ -7,7 +7,7 @@ Test Teardown  Common.End Webtest
 
 *** Test Cases ***
 User must sign in to check out
-    [Documentation]  This is some basic info about test case
+    [Documentation]  This is some basic info about test case with details
     [Tags]  Smoke
 
     Search for Products
